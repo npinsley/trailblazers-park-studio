@@ -1,8 +1,8 @@
-typescriptimport { defineCliConfig } from 'sanity/cli'
+import {defineCliConfig} from 'sanity/cli'
 
 export default defineCliConfig({
   api: {
-    projectId: 'tg4ta723',
+    projectId: 'Ytg4ta723',
     dataset: 'production',
   },
   studioHost: 'trailblazers-park',
